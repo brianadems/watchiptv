@@ -1,0 +1,577 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="##BILGILENDIRME EKRANI ###" tvg-logo="http://cccam.vdns.info/logo/info.jpg" group-title="Turkey [TR]",##BILGILENDIRME EKRANI ###
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1529.ts
+#EXTINF:-1 tvg-ID="StarHD.tr" tvg-name="STAR TV HD" tvg-logo="http://cccam.vdns.info/logo/star_tv_tr.png" group-title="Turkey [TR]",STAR TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/4.ts
+#EXTINF:-1 tvg-ID="StarHD.tr" tvg-name="TR:STAR FULL HD" tvg-logo="http://cccam.vdns.info/logo/star_tv_tr.png" group-title="Turkey [TR]",TR:STAR FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/745.ts
+#EXTINF:-1 tvg-ID="ATV.tr" tvg-name="TR:ATV HD" tvg-logo="http://cccam.vdns.info/logo/atv_tr.png" group-title="Turkey [TR]",TR:ATV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/3.ts
+#EXTINF:-1 tvg-ID="ATV.tr" tvg-name="TR:ATV FULL HD" tvg-logo="http://cccam.vdns.info/logo/atv_tr.png" group-title="Turkey [TR]",TR:ATV FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/746.ts
+#EXTINF:-1 tvg-ID="ShowTV.tr" tvg-name="TR:SHOW TV HD" tvg-logo="http://cccam.vdns.info/logo/show_tv_tr.png" group-title="Turkey [TR]",TR:SHOW TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1.ts
+#EXTINF:-1 tvg-ID="Show TV HD" tvg-name="TR:SHOW TV FULL HD" tvg-logo="http://cccam.vdns.info/logo/show_tv_tr.png" group-title="Turkey [TR]",TR:SHOW TV FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/690.ts
+#EXTINF:-1 tvg-ID="KanalD.tr" tvg-name="TR:KANAL D HD" tvg-logo="http://cccam.vdns.info/logo/kanal_d_tr.png" group-title="Turkey [TR]",TR:KANAL D HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/12.ts
+#EXTINF:-1 tvg-ID="KanalD.tr" tvg-name="TR:KANAL D FULL HD" tvg-logo="http://cccam.vdns.info/logo/kanal_d_tr.png" group-title="Turkey [TR]",TR:KANAL D FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1060.ts
+#EXTINF:-1 tvg-ID="Kanal D HD" tvg-name="TR:KANAL D SD" tvg-logo="http://cccam.vdns.info/logo/kanal_d_tr.png" group-title="Turkey [TR]",TR:KANAL D SD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/722.ts
+#EXTINF:-1 tvg-ID="Fox.tr" tvg-name="TR:FOX HD" tvg-logo="http://cccam.vdns.info/logo/fox_global.png" group-title="Turkey [TR]",TR:FOX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/10.ts
+#EXTINF:-1 tvg-ID="Fox.tr" tvg-name="TR:FOX FULL HD" tvg-logo="http://cccam.vdns.info/logo/fox_global.png" group-title="Turkey [TR]",TR:FOX FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1059.ts
+#EXTINF:-1 tvg-ID="TV8.tr" tvg-name="TR:TV8 HD" tvg-logo="http://cccam.vdns.info/logo/TV8_Logo_2016-0.png" group-title="Turkey [TR]",TR:TV8 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/9.ts
+#EXTINF:-1 tvg-ID="TV8.tr" tvg-name="TR:TV8 FULL HD" tvg-logo="http://cccam.vdns.info/logo/TV8_Logo_2016-0.png" group-title="Turkey [TR]",TR:TV8 FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/744.ts
+#EXTINF:-1 tvg-ID="TV 8,5" tvg-name="TR:TV8.5" tvg-logo="http://cccam.vdns.info/logo/tv85tr.png" group-title="Turkey [TR]",TR:TV8.5
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SHOWMAX" tvg-logo="http://cccam.vdns.info/logo/show_max_tr.png" group-title="Turkey [TR]",TR:SHOWMAX
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FOX LIFE" tvg-logo="" group-title="Turkey [TR]",TR:FOX LIFE
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FOX CRIME" tvg-logo="" group-title="Turkey [TR]",TR:FOX CRIME
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1761.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FLASH TV" tvg-logo="http://cccam.vdns.info/logo/flash_tv_tr.png" group-title="Turkey [TR]",TR:FLASH TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BENGUTURK" tvg-logo="" group-title="Turkey [TR]",TR:BENGUTURK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:A2 HD" tvg-logo="http://cccam.vdns.info/logo/a2.png" group-title="Turkey [TR]",TR:A2 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TVNET HD" tvg-logo="" group-title="Turkey [TR]",TR:TVNET HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1638.ts
+#EXTINF:-1 tvg-ID="Teve2" tvg-name="TR:TEVE2 HD" tvg-logo="http://cccam.vdns.info/logo/teve_2_tr.png" group-title="Turkey [TR]",TR:TEVE2 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/11.ts
+#EXTINF:-1 tvg-ID="Kanal7.tr" tvg-name="TR:KANAL 7 HD" tvg-logo="http://cccam.vdns.info/logo/kanal7_tr.png" group-title="Turkey [TR]",TR:KANAL 7 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:OLAY TV" tvg-logo="" group-title="Turkey [TR]",TR:OLAY TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1864.ts
+#EXTINF:-1 tvg-ID="TRT1.tr" tvg-name="TR:TRT1 HD" tvg-logo="http://cccam.vdns.info/logo/trt1.png" group-title="Turkey [TR]",TR:TRT1 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT 3 TBMM TV" tvg-logo="" group-title="Turkey [TR]",TR:TRT 3 TBMM TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT1 4K" tvg-logo="" group-title="Turkey [TR]",TRT1 4K
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1861.ts
+#EXTINF:-1 tvg-ID="TRTAVAZ.tr" tvg-name="TR:TRT AVAZ" tvg-logo="" group-title="Turkey [TR]",TR:TRT AVAZ
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1586.ts
+#EXTINF:-1 tvg-ID="Beyaz TV HD" tvg-name="TR:BEYAZ TV HD" tvg-logo="http://cccam.vdns.info/logo/beyaz_tv_tr.png" group-title="Turkey [TR]",TR:BEYAZ TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/13.ts
+#EXTINF:-1 tvg-ID="360" tvg-name="TR:360" tvg-logo="http://cccam.vdns.info/logo/360_tv_tr.png" group-title="Turkey [TR]",TR:360
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TELE1" tvg-logo="" group-title="Turkey [TR]",TR:TELE1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2525.ts
+#EXTINF:-1 tvg-ID="24" tvg-name="TR:24" tvg-logo="http://cccam.vdns.info/logo/24_tr.png" group-title="Turkey [TR]",TR:24
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/19.ts
+#EXTINF:-1 tvg-ID="A Haber" tvg-name="TR:A HABER HD" tvg-logo="http://cccam.vdns.info/logo/a_haber_tr.png" group-title="Turkey [TR]",TR:A HABER HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/27.ts
+#EXTINF:-1 tvg-ID="HABERTURK.tr" tvg-name="TR:HABERTURK HD" tvg-logo="http://cccam.vdns.info/logo/haber_turk.png" group-title="Turkey [TR]",TR:HABERTURK HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:ULUSAL KANAL" tvg-logo="http://cccam.vdns.info/logo/ulusal_kanal.png" group-title="Turkey [TR]",TR:ULUSAL KANAL
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT HABER HD" tvg-logo="http://cccam.vdns.info/logo/trt_haber.png" group-title="Turkey [TR]",TR:TRT HABER HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/36.ts
+#EXTINF:-1 tvg-ID="CNNTURK.tr" tvg-name="TR:CNN TURK HD" tvg-logo="http://cccam.vdns.info/logo/cnn_turk.png" group-title="Turkey [TR]",TR:CNN TURK HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/6.ts
+#EXTINF:-1 tvg-ID="TGRT Haber" tvg-name="TR:TGRT HABER" tvg-logo="http://cccam.vdns.info/logo/tgrt_haber.png" group-title="Turkey [TR]",TR:TGRT HABER
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BLOOMBERG HD" tvg-logo="http://cccam.vdns.info/logo/bloomberg_ht.png" group-title="Turkey [TR]",TR:BLOOMBERG HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FX HD" tvg-logo="http://cccam.vdns.info/logo/FX_HD.png" group-title="Turkey [TR]",TR:FX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:LIFE +" tvg-logo="" group-title="Turkey [TR]",TR:LIFE +
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:24 Kitchen HD" tvg-logo="" group-title="Turkey [TR]",TR:24 Kitchen HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2780.ts
+#EXTINF:-1 tvg-ID="NTV.tr" tvg-name="TR:NTV HD" tvg-logo="http://cccam.vdns.info/logo/ntv_tr.png" group-title="Turkey [TR]",TR:NTV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:ULKE" tvg-logo="" group-title="Turkey [TR]",TR:ULKE
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/34.ts
+#EXTINF:-1 tvg-ID="Halk TV" tvg-name="TR:HALK TV" tvg-logo="http://cccam.vdns.info/logo/halk_tv_tr.png" group-title="Turkey [TR]",TR:HALK TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:UCANKUS TV" tvg-logo="http://cccam.vdns.info/logo/ucan_kus_tv_tr.png" group-title="Turkey [TR]",TR:UCANKUS TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:RUMELI TV" tvg-logo="" group-title="Turkey [TR]",TR:RUMELI TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT KURDI" tvg-logo="" group-title="Turkey [TR]",TR:TRT KURDI
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1802.ts
+#EXTINF:-1 tvg-ID="GALATASARAYTV.tr" tvg-name="TR:GS TV" tvg-logo="http://cccam.vdns.info/logo/galatasaray_tv.png" group-title="Turk Spor [TR]",TR:GS TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/817.ts
+#EXTINF:-1 tvg-ID="FBTV.tr" tvg-name="TR:FB TV" tvg-logo="http://cccam.vdns.info/logo/fbtv_fenerbahce.png" group-title="Turk Spor [TR]",TR:FB TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/818.ts
+#EXTINF:-1 tvg-ID="BJKTV.tr" tvg-name="TR:BJK TV" tvg-logo="http://cccam.vdns.info/logo/besiktas_web_tv_tr.png" group-title="Turk Spor [TR]",TR:BJK TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/777.ts
+#EXTINF:-1 tvg-ID="ASpor.tr" tvg-name="TR:A SPOR HD" tvg-logo="http://cccam.vdns.info/logo/a_spor_tr.png" group-title="Turk Spor [TR]",TR:A SPOR HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/54.ts
+#EXTINF:-1 tvg-ID="ASpor.tr" tvg-name="TR:A SPOR SD" tvg-logo="http://cccam.vdns.info/logo/a_spor_tr.png" group-title="Turk Spor [TR]",TR:A SPOR SD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/717.ts
+#EXTINF:-1 tvg-ID="TRTSPOR.tr" tvg-name="TR:TRT SPOR HD" tvg-logo="http://cccam.vdns.info/logo/trt_spor_tr.png" group-title="Turk Spor [TR]",TR:TRT SPOR HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:EUROSPORT 1" tvg-logo="http://cccam.vdns.info/logo/Eurosport_1_HD.png" group-title="Turk Spor [TR]",TR:EUROSPORT 1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:EUROSPORT 2" tvg-logo="http://cccam.vdns.info/logo/Eurosport_2_HD_2015.png" group-title="Turk Spor [TR]",TR:EUROSPORT 2
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/270.ts
+#EXTINF:-1 tvg-ID="LIGTV.tr" tvg-name="TR:BEIN SPORTS 1 HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_sports_01_hd.png" group-title="Turk Spor [TR]",TR:BEIN SPORTS 1 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/55.ts
+#EXTINF:-1 tvg-ID="LIGTV.tr" tvg-name="TR:BEIN SPORTS 1 FULL HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_sports_01_hd.png" group-title="Turk Spor [TR]",TR:BEIN SPORTS 1 FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/663.ts
+#EXTINF:-1 tvg-ID="LIGTV.tr" tvg-name="TR:BEIN SPORTS 1 SD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_sports_01_hd.png" group-title="Turk Spor [TR]",TR:BEIN SPORTS 1 SD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1068.ts
+#EXTINF:-1 tvg-ID="LIGTV2.tr" tvg-name="TR:BEIN SPORTS 2 FULL HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_sports_02_hd.png" group-title="Turk Spor [TR]",TR:BEIN SPORTS 2 FULL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEIN SPORTS 2 HD" tvg-logo="" group-title="Turk Spor [TR]",TR:BEIN SPORTS 2 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2028.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEIN SPORTS 2 SD" tvg-logo="" group-title="Turk Spor [TR]",TR:BEIN SPORTS 2 SD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2457.ts
+#EXTINF:-1 tvg-ID="LIGTV3.tr" tvg-name="TR:BEIN SPORTS 3 HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_sports_03_hd.png" group-title="Turk Spor [TR]",TR:BEIN SPORTS 3 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/57.ts
+#EXTINF:-1 tvg-ID="LIGTV3.tr" tvg-name="TR:BEIN SPORTS 3 SD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_sports_03_hd.png" group-title="Turk Spor [TR]",TR:BEIN SPORTS 3 SD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2029.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEIN SPORTS 4 HD" tvg-logo="" group-title="Turk Spor [TR]",TR:BEIN SPORTS 4 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEIN SPORTS MAX 1" tvg-logo="" group-title="Turk Spor [TR]",TR:BEIN SPORTS MAX 1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/825.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEIN SPORTS MAX 2" tvg-logo="" group-title="Turk Spor [TR]",TR:BEIN SPORTS MAX 2
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1081.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BEINSPORTS HABER HD" tvg-logo="http://cccam.vdns.info/logo/bein-sports-haber-qa-tr.png" group-title="Turk Spor [TR]",TR:BEINSPORTS HABER HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2091.ts
+#EXTINF:-1 tvg-ID="TivibuSpor 1 HD TR" tvg-name="TR:TIVIBU SPOR" tvg-logo="http://cccam.vdns.info/logo/tivibu_tr_spor.png" group-title="Turk Spor [TR]",TR:TIVIBU SPOR
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/125.ts
+#EXTINF:-1 tvg-ID="TivibuSpor2.tr" tvg-name="TR:TIVIBU SPOR 2" tvg-logo="http://cccam.vdns.info/logo/tivibu_tr_spor_2.png" group-title="Turk Spor [TR]",TR:TIVIBU SPOR 2
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/51.ts
+#EXTINF:-1 tvg-ID="TivibuSpor3.tr" tvg-name="TR:TIVIBU SPOR 3" tvg-logo="http://cccam.vdns.info/logo/tivibu_tr_spor_3.png" group-title="Turk Spor [TR]",TR:TIVIBU SPOR 3
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/251.ts
+#EXTINF:-1 tvg-ID="TivibuSpor4.tr" tvg-name="TR:TIVIBU SPOR 4" tvg-logo="http://cccam.vdns.info/logo/tivibu_tr_spor_4.png" group-title="Turk Spor [TR]",TR:TIVIBU SPOR 4
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SMART SPOR 1" tvg-logo="http://cccam.vdns.info/logo/smart_spor.png" group-title="Turk Spor [TR]",TR:SMART SPOR 1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:S SPORT HD" tvg-logo="" group-title="Turk Spor [TR]",TR:S SPORT HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:S SPORT SD" tvg-logo="" group-title="Turk Spor [TR]",TR:S SPORT SD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:NBA TV HD" tvg-logo="http://cccam.vdns.info/logo/nba_tv_us.png" group-title="Turk Spor [TR]",TR:NBA TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1012.ts
+#EXTINF:-1 tvg-ID="SportsTV.tr" tvg-name="TR:SPORTS TV" tvg-logo="http://cccam.vdns.info/logo/sports_tv_tr.png" group-title="Turk Spor [TR]",TR:SPORTS TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FANATIK TV" tvg-logo="http://cccam.vdns.info/logo/fanatiktv.png" group-title="Turk Spor [TR]",TR:FANATIK TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/976.ts
+#EXTINF:-1 tvg-ID="TRTBelgesel.tr" tvg-name="TR:TRT BELGESEL" tvg-logo="http://cccam.vdns.info/logo/trt_belgesel_tr.png" group-title="Turk Belgesel [TR]",TR:TRT BELGESEL
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:ANIMAX" tvg-logo="" group-title="Turk Belgesel [TR]",TR:ANIMAX
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2771.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:AB MOTEURS" tvg-logo="" group-title="Turk Belgesel [TR]",TR:AB MOTEURS
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CHASSE PEACE" tvg-logo="" group-title="Turk Belgesel [TR]",TR:CHASSE PEACE
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2770.ts
+#EXTINF:-1 tvg-ID="?Z TV" tvg-name="TR:BEIN IZ HD" tvg-logo="http://cccam.vdns.info/logo/iztv_hd.png" group-title="Turk Belgesel [TR]",TR:BEIN IZ HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/46.ts
+#EXTINF:-1 tvg-ID="AnimalPlanet.tr" tvg-name="TR:ANIMAL PLANET HD" tvg-logo="http://cccam.vdns.info/logo/Animal_Planet.png" group-title="Turk Belgesel [TR]",TR:ANIMAL PLANET HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/276.ts
+#EXTINF:-1 tvg-ID="Discovery.tr" tvg-name="TR:DISCOVERY CHANNEL HD" tvg-logo="http://cccam.vdns.info/logo/Discovery_Channel_2008.png" group-title="Turk Belgesel [TR]",TR:DISCOVERY CHANNEL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/40.ts
+#EXTINF:-1 tvg-ID="DiscoveryShowcaseHD.tr" tvg-name="TR:DISCOVERY SHOWCASE" tvg-logo="http://cccam.vdns.info/logo/Discovery_Showcase_HD.png" group-title="Turk Belgesel [TR]",TR:DISCOVERY SHOWCASE
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/346.ts
+#EXTINF:-1 tvg-ID="DiscoveryScience.tr" tvg-name="TR:DISCOVERY SCIENCE" tvg-logo="http://cccam.vdns.info/logo/discovery_science.png" group-title="Turk Belgesel [TR]",TR:DISCOVERY SCIENCE
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/982.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:LIFETIME HD" tvg-logo="" group-title="Turkey [TR]",TR:LIFETIME HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1799.ts
+#EXTINF:-1 tvg-ID="NTVSpor.tr" tvg-name="TR:DMAX HD" tvg-logo="http://cccam.vdns.info/logo/ntv_spor.png" group-title="Turk Belgesel [TR]",TR:DMAX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2.ts
+#EXTINF:-1 tvg-ID="IDX.tr" tvg-name="TR:IDX-HD" tvg-logo="http://cccam.vdns.info/logo/investigation_discovery_us_2012.png" group-title="Turk Belgesel [TR]",TR:IDX-HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/940.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT WORLD HD" tvg-logo="" group-title="Turkey [TR]",TR:TRT WORLD HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1640.ts
+#EXTINF:-1 tvg-ID="History.tr" tvg-name="TR:HISTORY HD" tvg-logo="http://cccam.vdns.info/logo/History.png" group-title="Turk Belgesel [TR]",TR:HISTORY HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/43.ts
+#EXTINF:-1 tvg-ID="TurkmaxGurme.tr" tvg-name="TR:BEIN GURME HD" tvg-logo="http://cccam.vdns.info/logo/Bein_Gurme_HD_yeni.png" group-title="Turk Belgesel [TR]",TR:BEIN GURME HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/41.ts
+#EXTINF:-1 tvg-ID="NatGeoWild.tr" tvg-name="TR:NAT GEO WILD HD" tvg-logo="http://cccam.vdns.info/logo/Nat_Geo_Wild_HD.svg.png" group-title="Turk Belgesel [TR]",TR:NAT GEO WILD HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/23.ts
+#EXTINF:-1 tvg-ID="NATGEOGRAPHIC.tr" tvg-name="TR:NATIONAL GEOGRAPHIC HD" tvg-logo="http://cccam.vdns.info/logo/Nat_Geo_HD.png" group-title="Turk Belgesel [TR]",TR:NATIONAL GEOGRAPHIC HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/22.ts
+#EXTINF:-1 tvg-ID="NatGeoPeople.tr" tvg-name="TR:NAT GEO PEOPLE HD" tvg-logo="http://cccam.vdns.info/logo/Nat_Geo_People_HD.png" group-title="Turk Belgesel [TR]",TR:NAT GEO PEOPLE HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:VIASAT NATURA" tvg-logo="http://cccam.vdns.info/logo/Viasat_History.png" group-title="Turk Belgesel [TR]",TR:VIASAT NATURA
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BBC EARTH HD" tvg-logo="http://cccam.vdns.info/logo/BBC_Earth.png" group-title="Turk Belgesel [TR]",TR:BBC EARTH HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/941.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DA VINCI LEARNING HD" tvg-logo="http://cccam.vdns.info/logo/davinci.png" group-title="Turk Belgesel [TR]",TR:DA VINCI LEARNING HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/24.ts
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TR:TLC" tvg-logo="http://cccam.vdns.info/logo/tlc_us.png" group-title="Turkey [TR]",TR:TLC
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DTX HD" tvg-logo="http://cccam.vdns.info/logo/dtx_logo.png" group-title="Turk Belgesel [TR]",TR:DTX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:YABAN TV" tvg-logo="http://cccam.vdns.info/logo/yaban_tv_tr.png" group-title="Turkey [TR]",TR:YABAN TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1063.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MOVIESMART TURK HD" tvg-logo="http://cccam.vdns.info/logo/MovieSmart_Turk.png" group-title="Turk Sinema [TR]",TR:MOVIESMART TURK HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/458.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MOVIESMART PREMIUM HD" tvg-logo="http://cccam.vdns.info/logo/movie_smart_premium.png" group-title="Turk Sinema [TR]",TR:MOVIESMART PREMIUM HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MOVIESMART FAMILY HD" tvg-logo="http://cccam.vdns.info/logo/movie_smart_family.png" group-title="Turk Sinema [TR]",TR:MOVIESMART FAMILY HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MOVIESMART FEST HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:MOVIESMART FEST HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MOVIESMART CLASSIC HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:MOVIESMART CLASSIC HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MOVIESMART PLATIN HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:MOVIESMART PLATIN HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MOVIESMART ACTION HD" tvg-logo="http://cccam.vdns.info/logo/movie_smart_action.png" group-title="Turk Sinema [TR]",TR:MOVIESMART ACTION HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/467.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DIZISMART PREMIUM HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:DIZISMART PREMIUM HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA TVHD" tvg-logo="http://cccam.vdns.info/logo/sinema_tv.jpg" group-title="Turk Sinema [TR]",TR:SINEMA TVHD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/278.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA TV 2 HD" tvg-logo="http://cccam.vdns.info/logo/sinema_tv2.jpg" group-title="Turk Sinema [TR]",TR:SINEMA TV 2 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA TV AKSIYON HD" tvg-logo="http://cccam.vdns.info/logo/sinema_tv_aksiyon.jpg" group-title="Turk Sinema [TR]",TR:SINEMA TV AKSIYON HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA TV AILE" tvg-logo="http://cccam.vdns.info/logo/sinema_tv_aile.jpg" group-title="Turk Sinema [TR]",TR:SINEMA TV AILE
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA TV 1001" tvg-logo="http://cccam.vdns.info/logo/sinema_tv_1001.jpg" group-title="Turk Sinema [TR]",TR:SINEMA TV 1001
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/942.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TIVIBU VIZYON HD" tvg-logo="http://cccam.vdns.info/logo/sinetivi_tr.png" group-title="Turk Sinema [TR]",TR:TIVIBU VIZYON HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CAPTAIN MOVIES 1" tvg-logo="" group-title="Turk Sinema [TR]",TR:CAPTAIN MOVIES 1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/623.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CAPTAIN MOVIES 2" tvg-logo="" group-title="Turk Sinema [TR]",TR:CAPTAIN MOVIES 2
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CAPTAIN MOVIES 3" tvg-logo="" group-title="Turk Sinema [TR]",TR:CAPTAIN MOVIES 3
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CAPTAIN MOVIES 4" tvg-logo="" group-title="Turk Sinema [TR]",TR:CAPTAIN MOVIES 4
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/466.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CAPTAIN MOVIES 5" tvg-logo="" group-title="Turk Sinema [TR]",TR:CAPTAIN MOVIES 5
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/464.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX ANIMATION HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX ANIMATION HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/820.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:KEMAL SUNAL TV 1" tvg-logo="" group-title="Turk Sinema [TR]",TR:KEMAL SUNAL TV 1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1166.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX YESILCAM" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX YESILCAM
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/938.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FIL TV HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FIL TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TURKISH CLUB HD" tvg-logo="" group-title="Turkey [TR]",TR:TURKISH CLUB HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1056.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:YESILCAM HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:YESILCAM HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1084.ts
+#EXTINF:-1 tvg-ID="MoviemaxComedy.tr" tvg-name="TR:beIN MOVIES COMEDY HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_series_comedy_hd.png" group-title="Turk Sinema [TR]",TR:beIN MOVIES COMEDY HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:beIN MOVIES FESTIVAL HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_movies_festival_hd.png" group-title="Turk Sinema [TR]",TR:beIN MOVIES FESTIVAL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2004.ts
+#EXTINF:-1 tvg-ID="MoviemaxPremier.tr" tvg-name="TR:beIN MOVIES PREMIERE HD" tvg-logo="http://cccam.vdns.info/logo/bein-movies-premiere-qa-tr.png" group-title="Turk Sinema [TR]",TR:beIN MOVIES PREMIERE HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2009.ts
+#EXTINF:-1 tvg-ID="DizimaxDrama.tr" tvg-name="TR:beIN SERIES DRAMA HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:beIN SERIES DRAMA HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2186.ts
+#EXTINF:-1 tvg-ID="DizimaxVice.tr" tvg-name="TR:beIN SERIES VICE HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:beIN SERIES VICE HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2185.ts
+#EXTINF:-1 tvg-ID="Moviemax Stars" tvg-name="TR:beIN MOVIES STARS HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_movies_stars_hd.png" group-title="Turk Sinema [TR]",TR:beIN MOVIES STARS HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1108.ts
+#EXTINF:-1 tvg-ID="Moviemax Family" tvg-name="TR:beIN MOVIES FAMILY HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_movies_family_hd.png" group-title="Turk Sinema [TR]",TR:beIN MOVIES FAMILY HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1109.ts
+#EXTINF:-1 tvg-ID="Moviemax Action" tvg-name="TR:beIN MOVIES ACTION HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_movies_action_01_hd.png" group-title="Turk Sinema [TR]",TR:beIN MOVIES ACTION HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:beIN MOVIES TURK HD" tvg-logo="http://cccam.vdns.info/logo/be_in_tr_movies_turk_hd.png" group-title="Turk Sinema [TR]",TR:beIN MOVIES TURK HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1082.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX TURK HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX TURK HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1036.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX DRAM HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX DRAM HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1051.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX ANIMASYON HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX ANIMASYON HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1052.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX AKSIYON HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX AKSIYON HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1053.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX  AKSIYON2 HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX  AKSIYON2 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX ADRENALIN HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX ADRENALIN HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1055.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX AILE HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX AILE HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX KORKU HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX KORKU HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX PREMIER HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX PREMIER HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOXHD BILIMKURGU" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOXHD BILIMKURGU
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOXHD FANTASTiK" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOXHD FANTASTiK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FILMBOX KOMEDI HD" tvg-logo="" group-title="Turk Sinema [TR]",TR:FILMBOX KOMEDI HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1054.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:beIN BOX OFFICE 1" tvg-logo="" group-title="Turk Sinema [TR]",TR:beIN BOX OFFICE 1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:beIN BOX OFFICE 2" tvg-logo="" group-title="Turk Sinema [TR]",TR:beIN BOX OFFICE 2
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:beIN BOX OFFICE 3" tvg-logo="" group-title="Turk Sinema [TR]",TR:beIN BOX OFFICE 3
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 1" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 1
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 2" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 2
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 3" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 3
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 4" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 4
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 5" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 5
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2722.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 6" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 6
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2723.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 7" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 7
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2724.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 8" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 8
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 9" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 9
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 10" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 10
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2727.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 11" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 11
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2728.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 12" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 12
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2729.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 13" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 13
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 14" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 14
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2731.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 15" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 15
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2732.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 16" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 16
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 17" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 17
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2734.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 18" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 18
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2735.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 19" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 19
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2736.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SALON 20" tvg-logo="" group-title="Turk Sinema [TR]",TR:SALON 20
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2737.ts
+#EXTINF:-1 tvg-ID="TJKTV.tr" tvg-name="TR:TJK TV" tvg-logo="http://cccam.vdns.info/logo/Tjk_tv_logo.png" group-title="Turkey [TR]",TR:TJK TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:NUMBER1 TV HD" tvg-logo="http://cccam.vdns.info/logo/number1_tr_tv.png" group-title="Turkey [TR]",TR:NUMBER1 TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/333.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:NUMBER1 TURK HD" tvg-logo="http://cccam.vdns.info/logo/number1_tr_tv_turk.png" group-title="Turkey [TR]",TR:NUMBER1 TURK HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/332.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DREAM TURK" tvg-logo="http://cccam.vdns.info/logo/dream_tv_tr_turk.png" group-title="Turkey [TR]",TR:DREAM TURK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/334.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRACE URBAN HD" tvg-logo="" group-title="Turkey [TR]",TR:TRACE URBAN HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:AKILLI TV" tvg-logo="http://cccam.vdns.info/logo/akilli_tv_tr.png" group-title="Turkey [TR]",TR:AKILLI TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TAY TV HD" tvg-logo="" group-title="Turkey [TR]",TR:TAY TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BURSA TV" tvg-logo="" group-title="Turkey [TR]",TR:BURSA TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:ESKISEHIR" tvg-logo="" group-title="Turkey [TR]",TR:ESKISEHIR
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1869.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:ORDU TV" tvg-logo="" group-title="Turkey [TR]",TR:ORDU TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1868.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SIVAS TV" tvg-logo="" group-title="Turkey [TR]",TR:SIVAS TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1867.ts
+#EXTINF:-1 tvg-ID="TRTDIYANET.tr" tvg-name="TR:TRT DIYANET" tvg-logo="http://cccam.vdns.info/logo/trt_diyanet_tr.png" group-title="Turkey [TR]",TR:TRT DIYANET
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/331.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SEMERKAND" tvg-logo="http://cccam.vdns.info/logo/semerkand_tv.png" group-title="Turkey [TR]",TR:SEMERKAND
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:KUDUS TV" tvg-logo="http://cccam.vdns.info/logo/kudus_tv_tr.png" group-title="Turkey [TR]",TR:KUDUS TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1061.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:LALEGUL" tvg-logo="http://cccam.vdns.info/logo/lalegul_tv_tr.png" group-title="Turkey [TR]",TR:LALEGUL
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1092.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MEDINE TV" tvg-logo="" group-title="Turkey [TR]",TR:MEDINE TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2448.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:HILAL TV" tvg-logo="" group-title="Turkey [TR]",TR:HILAL TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:AKIT TV" tvg-logo="" group-title="Turkey [TR]",TR:AKIT TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:SONY MUTFAK" tvg-logo="" group-title="Turkey [TR]",TR:SONY MUTFAK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/3106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:KRAL POP HD" tvg-logo="http://cccam.vdns.info/logo/kral_tr_tv.png" group-title="Turkey [TR]",TR:KRAL POP HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:KRAL POP" tvg-logo="http://cccam.vdns.info/logo/kral_tr_pop_tv.png" group-title="Turkey [TR]",TR:KRAL POP
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:POWER TURK HD" tvg-logo="http://cccam.vdns.info/logo/power_turk_tr_tv.png" group-title="Turkey [TR]",TR:POWER TURK HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:POWER HD" tvg-logo="" group-title="Turkey [TR]",TR:POWER HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/3005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DREAM TV" tvg-logo="http://cccam.vdns.info/logo/dream_tv_tr.png" group-title="Turkey [TR]",TR:DREAM TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/48.ts
+#EXTINF:-1 tvg-ID="TRTMuzik.tr" tvg-name="TR:TRT MUZIK" tvg-logo="http://cccam.vdns.info/logo/trt_muzik.png" group-title="Turkey [TR]",TR:TRT MUZIK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MAVI KARADENIZ" tvg-logo="" group-title="Turkey [TR]",TR:MAVI KARADENIZ
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:VATAN TV" tvg-logo="" group-title="Turkey [TR]",TR:VATAN TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1967.ts
+#EXTINF:-1 tvg-ID="TRTCocuk.tr" tvg-name="TR:TRT COCUK" tvg-logo="http://cccam.vdns.info/logo/trt_cocuk.png" group-title="Turk Cocuk [TR]",TR:TRT COCUK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DISNEY CHANNEL" tvg-logo="http://cccam.vdns.info/logo/Disney_Channel_2014_HD.png" group-title="Turk Cocuk [TR]",TR:DISNEY CHANNEL
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:DISNEY JUNIOR" tvg-logo="http://cccam.vdns.info/logo/Disney_Junior.png" group-title="Turk Cocuk [TR]",TR:DISNEY JUNIOR
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MINIKA COCUK" tvg-logo="http://cccam.vdns.info/logo/minika_cocuk.png" group-title="Turkey [TR]",TR:MINIKA COCUK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:KIDZ/ANIMEZ" tvg-logo="http://cccam.vdns.info/logo/animezkidz_logo.jpg" group-title="Turk Cocuk [TR]",TR:KIDZ/ANIMEZ
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CARTON NETWORK" tvg-logo="http://cccam.vdns.info/logo/Cartoon_Network_HD_logo.svg.png" group-title="Turk Cocuk [TR]",TR:CARTON NETWORK
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MINIKA GO" tvg-logo="http://cccam.vdns.info/logo/minika_go.png" group-title="Turk Cocuk [TR]",TR:MINIKA GO
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/209.ts
+#EXTINF:-1 tvg-ID="BabyTV.tr" tvg-name="TR:BABY TV" tvg-logo="http://cccam.vdns.info/logo/baby_tv.jpg" group-title="Turk Cocuk [TR]",TR:BABY TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:NICKJR" tvg-logo="" group-title="Turk Cocuk [TR]",TR:NICKJR
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR:NICKELODEON" tvg-logo="" group-title="Turk Cocuk [TR]",TR:NICKELODEON
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Das Erste HD" tvg-logo="" group-title="Germany [DE]",Das Erste HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZDF HD" tvg-logo="" group-title="Germany [DE]",ZDF HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WDR HD" tvg-logo="" group-title="Germany [DE]",WDR HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/254.ts
+#EXTINF:-1 tvg-ID="RTL.de" tvg-name="RTL HD" tvg-logo="" group-title="Germany [DE]",RTL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/87.ts
+#EXTINF:-1 tvg-ID="RTL2.de" tvg-name="RTLII HD" tvg-logo="" group-title="Germany [DE]",RTLII HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL Nitro HD" tvg-logo="" group-title="Germany [DE]",RTL Nitro HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1090.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SAT.1 HD" tvg-logo="" group-title="Germany [DE]",SAT.1 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ProSieben HD" tvg-logo="" group-title="Germany [DE]",ProSieben HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="kabel eins HD" tvg-logo="" group-title="Germany [DE]",kabel eins HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VOX HD" tvg-logo="" group-title="Germany [DE]",VOX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kabel Eins Classics HD" tvg-logo="" group-title="Germany [DE]",Kabel Eins Classics HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2453.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tele 5 HD" tvg-logo="" group-title="Germany [DE]",Tele 5 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIXX HD" tvg-logo="" group-title="Germany [DE]",SIXX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC HD" tvg-logo="" group-title="Germany [DE]",TLC HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SAT.1 Gold HD" tvg-logo="" group-title="Germany [DE]",SAT.1 Gold HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ProSieben Fun HD" tvg-logo="" group-title="Germany [DE]",ProSieben Fun HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Pro7 MAXX HD" tvg-logo="" group-title="Germany [DE]",Pro7 MAXX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/269.ts
+#EXTINF:-1 tvg-ID="Fox.de" tvg-name="Fox HD" tvg-logo="" group-title="Germany [DE]",Fox HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL Living HD" tvg-logo="" group-title="Germany [DE]",RTL Living HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL Crime HD" tvg-logo="" group-title="Germany [DE]",RTL Crime HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL Passion HD" tvg-logo="" group-title="Germany [DE]",RTL Passion HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2825.ts
+#EXTINF:-1 tvg-ID="" tvg-name="n-tv HD" tvg-logo="" group-title="Germany [DE]",n-tv HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WELT HD" tvg-logo="" group-title="Germany [DE]",WELT HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tagesschau 24 HD" tvg-logo="" group-title="Germany [DE]",Tagesschau 24 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Phoenix HD" tvg-logo="" group-title="Germany [DE]",Phoenix HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arte HD" tvg-logo="" group-title="Germany [DE]",Arte HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3sat HD" tvg-logo="" group-title="Germany [DE]",3sat HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2075.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZDF neo HD" tvg-logo="" group-title="Germany [DE]",ZDF neo HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZDF info HD" tvg-logo="" group-title="Germany [DE]",ZDF info HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NDR HD" tvg-logo="" group-title="Germany [DE]",NDR HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DMAX HD" tvg-logo="" group-title="Germany [DE]",DMAX HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee One HD" tvg-logo="" group-title="Germany [DE]",Zee One HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORF 1 HD" tvg-logo="" group-title="Germany [DE]",ORF 1 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORF 2 HD" tvg-logo="" group-title="Germany [DE]",ORF 2 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super RTL HD" tvg-logo="" group-title="Germany [DE]",Super RTL HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KiKa HD" tvg-logo="" group-title="Germany [DE]",KiKa HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel HD" tvg-logo="" group-title="Germany [DE]",Disney Channel HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Germany [DE]",Cartoon Network HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD HD" tvg-logo="" group-title="Germany [DE]",Disney XD HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Cinemagic HD" tvg-logo="" group-title="Germany [DE]",Disney Cinemagic HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/93.ts
+#EXTINF:-1 tvg-ID="Boomerang.de" tvg-name="Boomerang" tvg-logo="" group-title="Germany [DE]",Boomerang
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1845.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema HD" tvg-logo="" group-title="Germany [DE]",Sky Cinema HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema +1 HD" tvg-logo="" group-title="Germany [DE]",Sky Cinema +1 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema +24 HD" tvg-logo="" group-title="Germany [DE]",Sky Cinema +24 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/72.ts
+#EXTINF:-1 tvg-ID="SkyCinemaHits.de" tvg-name="Sky Cinema Hits HD" tvg-logo="" group-title="Germany [DE]",Sky Cinema Hits HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Action HD" tvg-logo="" group-title="Germany [DE]",Sky Cinema Action HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/73.ts
+#EXTINF:-1 tvg-ID="SkyEmotion.de" tvg-name="Sky Cinema Emotion" tvg-logo="" group-title="Germany [DE]",Sky Cinema Emotion
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/101.ts
+#EXTINF:-1 tvg-ID="SkyAction.de" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="Germany [DE]",Sky Cinema Comedy HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Family HD" tvg-logo="" group-title="Germany [DE]",Sky Cinema Family HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Nostalgie" tvg-logo="" group-title="Germany [DE]",Sky Cinema Nostalgie
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/522.ts
+#EXTINF:-1 tvg-ID="SkyKrimi.de" tvg-name="Sky Krimi" tvg-logo="" group-title="Germany [DE]",Sky Krimi
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky 1 HD" tvg-logo="" group-title="Germany [DE]",Sky 1 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1085.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Germany [DE]",Sky Atlantic HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SyFy HD" tvg-logo="" group-title="Germany [DE]",SyFy HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Universal HD" tvg-logo="" group-title="Germany [DE]",Universal HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kinowelt TV" tvg-logo="" group-title="Germany [DE]",Kinowelt TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/268.ts
+#EXTINF:-1 tvg-ID="13thStreet.de" tvg-name="13th Street HD" tvg-logo="" group-title="Germany [DE]",13th Street HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Serie HD" tvg-logo="" group-title="Germany [DE]",TNT Serie HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Film HD" tvg-logo="" group-title="Germany [DE]",TNT Film HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/264.ts
+#EXTINF:-1 tvg-ID="TNTGlitz.de" tvg-name="TNT Comedy HD" tvg-logo="" group-title="Germany [DE]",TNT Comedy HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="Germany [DE]",AXN
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony TV HD" tvg-logo="" group-title="Germany [DE]",Sony TV HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/2449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Heimat kanal" tvg-logo="" group-title="Germany [DE]",Heimat kanal
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Romance TV" tvg-logo="" group-title="Germany [DE]",Romance TV
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/527.ts
+#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="E! HD" tvg-logo="" group-title="Germany [DE]",E! HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 1 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 1 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 2 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 2 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 3 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 3 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 4 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 4 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 5 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 5 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 6 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 6 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 7 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 7 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/309.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 8 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 8 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 9 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 9 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Select 10 HD" tvg-logo="" group-title="Germany [DE]",Sky Select 10 HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery HD" tvg-logo="" group-title="Germany [DE]",Discovery HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/75.ts
+#EXTINF:-1 tvg-ID="NatGeoHD.de" tvg-name="National Geographic HD" tvg-logo="" group-title="Germany [DE]",National Geographic HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/89.ts
+#EXTINF:-1 tvg-ID="NatGeoWild.de" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Germany [DE]",Nat Geo Wild HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/90.ts
+#EXTINF:-1 tvg-ID="History.de" tvg-name="History HD" tvg-logo="" group-title="Germany [DE]",History HD
+http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/99.ts
