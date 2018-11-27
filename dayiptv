@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="##BILGILENDIRME EKRANI ###" tvg-logo="http://cccam.vdns.info/logo/info.jpg" group-title="Turkey [TR]",##BILGILENDIRME EKRANI ###
-http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/1529.ts
-#EXTINF:-1 tvg-ID="StarHD.tr" tvg-name="STAR TV HD" tvg-logo="http://cccam.vdns.info/logo/star_tv_tr.png" group-title="Turkey [TR]",STAR TV HD
+
+
 http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/4.ts
 #EXTINF:-1 tvg-ID="StarHD.tr" tvg-name="TR:STAR FULL HD" tvg-logo="http://cccam.vdns.info/logo/star_tv_tr.png" group-title="Turkey [TR]",TR:STAR FULL HD
 http://vizyon.pw:8000/live/y.us.ufse.r.ge.n45gmail.com/9CE6Z3WJ/745.ts
